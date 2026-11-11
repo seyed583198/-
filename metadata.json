@@ -1,0 +1,6 @@
+{
+  "name": "تَن‌ساز (TanSaz) | فیوچرفیت - دستیار هوشمند بدنسازی و آناتومی",
+  "description": "وب‌اپلیکیشن جامع و مدرن بدنسازی به زبان فارسی، نقشه تعاملی عضلات بدن (MuscleWiki فارسی)، بانک جامع حرکات ورزشی، برنامه‌ساز هوشمند و ردیاب حرفه‌ای تمرین",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
